@@ -1,0 +1,6 @@
+streamlit
+asyncio
+autogen
+pillow
+requests
+openai
