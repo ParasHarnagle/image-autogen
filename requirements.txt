@@ -4,3 +4,4 @@ autogen
 pillow
 requests
 openai
+stability-sdk
